@@ -1,7 +1,7 @@
 
 This toolbox provides a discriminative Subgraph learning algorithm developed in the paper:
 Lin Zhang and Petko Bogdanov,
-"DSL: Discriminative Subgraph Learning via Sparse Self-Representation" (Submitted in SDM 2019)
+"DSL: Discriminative Subgraph Learning via Sparse Self-Representation" (Published in SDM 2019)
 
 
 To execute, run the DEMO.m file:
